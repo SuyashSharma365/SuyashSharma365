@@ -4,6 +4,7 @@ Computer Science Student passionate about:
 - Data Structures & Algorithms
 - Backend Development with Java & Spring Boot
 - Distributed Systems & Microservices
+- AI and Machine Learning
 - Open Source Contribution
 
 ##  Currently Working On
