@@ -8,10 +8,13 @@ Computer Science Student passionate about:
 - Open Source Contribution
 
 ## 🚀 Currently Working On
-- Authentication Microservice with JWT & Kafka 
+- Authentication Microservice with JWT & Kafka
+- User Management Service
+- AI-powered Projects
 
 ## 📚 Currently Learning
 - System Design
+- Kubernetes & Docker
 - Open Source Development
 
 ## 🛠 Tech Stack
@@ -22,20 +25,20 @@ Computer Science Student passionate about:
 
 **DevOps:** Docker • GitHub Actions • Git
 
-**Core CS:** Data Structures & Algorithms • Object-Oriented Programming
+**Core CS:** Data Structures & Algorithms • Object-Oriented Programming • System Design
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+    src="https://github-readme-stats.vercel.app/api?username=SuyashSharma365&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
   <img height="170" alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashSharma365&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
   <img alt="GitHub Streak"
-    src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+    src="https://streak-stats.demolab.com/?user=SuyashSharma365&theme=radical" />
 </p>
 
 ## 🤝 Connect With Me
